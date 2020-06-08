@@ -1,0 +1,60 @@
+[
+  {
+    "Name": "Coop",
+    "Location": "Bor\u00E5s",
+    "StockedProducts": [
+      {
+        "Name": "BBQ Sauce",
+        "Price": 32.5,
+        "Manufacturer": {
+          "Name": "Sauces Co",
+          "Location": "USA"
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Ica",
+    "Location": "Sisj\u00F6n",
+    "StockedProducts": [
+      {
+        "Name": "Avacado",
+        "Price": 25,
+        "Manufacturer": {
+          "Name": "Avacado Inc",
+          "Location": "Mexico"
+        }
+      },
+      {
+        "Name": "BBQ Sauce",
+        "Price": 32.5,
+        "Manufacturer": {
+          "Name": "Sauces Co",
+          "Location": "USA"
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Willys",
+    "Location": "Alings\u00E5s",
+    "StockedProducts": [
+      {
+        "Name": "Haddock",
+        "Price": 40,
+        "Manufacturer": {
+          "Name": "G\u00F6teborg Fisk",
+          "Location": "Sweden"
+        }
+      },
+      {
+        "Name": "Royal Gala Apple",
+        "Price": 10,
+        "Manufacturer": {
+          "Name": "Apple Farm",
+          "Location": "UK"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "PMT",
+    "Location": "Birmingham",
+    "StockedProducts": []
+  },
+  {
+    "Name": "Andertons",
+    "Location": "Guildford",
+    "StockedProducts": []
+  },
+  {
+    "Name": "GuitarGuitar",
+    "Location": "Glasgow",
+    "StockedProducts": []
+  }
+]

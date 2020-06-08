@@ -1,0 +1,13 @@
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.csprojAssemblyReference.cache
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.AssemblyInfoInputs.cache
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.AssemblyInfo.cs
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.dll
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.pdb
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\bin\Debug\netcoreapp3.1\Inlämning4.exe
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\bin\Debug\netcoreapp3.1\Inlämning4.deps.json
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\bin\Debug\netcoreapp3.1\Inlämning4.runtimeconfig.json
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\bin\Debug\netcoreapp3.1\Inlämning4.runtimeconfig.dev.json
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\bin\Debug\netcoreapp3.1\Inlämning4.dll
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\bin\Debug\netcoreapp3.1\Inlämning4.pdb
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Programming\Tutorials\ITHS\Inlämning4\Inlämning4\obj\Debug\netcoreapp3.1\Inlämning4.genruntimeconfig.cache

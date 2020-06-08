@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "Mexican Strat",
+    "Price": 479,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "Mexico"
+    }
+  },
+  {
+    "Name": "Mexican Tele",
+    "Price": 479,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "Mexico"
+    }
+  },
+  {
+    "Name": "Mexican PBass",
+    "Price": 549,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "Mexico"
+    }
+  },
+  {
+    "Name": "Mexican JBass",
+    "Price": 549,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "Mexico"
+    }
+  },
+  {
+    "Name": "American Strat",
+    "Price": 979,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "USA"
+    }
+  },
+  {
+    "Name": "American Tele",
+    "Price": 979,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "USA"
+    }
+  },
+  {
+    "Name": "American PBass",
+    "Price": 1059,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "USA"
+    }
+  },
+  {
+    "Name": "American JBass",
+    "Price": 1059,
+    "Manufacturer": {
+      "Name": "Fender",
+      "Location": "USA"
+    }
+  }
+]
