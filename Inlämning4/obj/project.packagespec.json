@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\ITHS\\Inlämning4\\Inlämning4\\Inlämning4.csproj",
+    "projectUniqueName": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\Tim Corey\\ProductManager\\Inlämning4\\Inlämning4.csproj",
     "projectName": "Inlämning4",
-    "projectPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\ITHS\\Inlämning4\\Inlämning4\\Inlämning4.csproj",
-    "outputPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\ITHS\\Inlämning4\\Inlämning4\\obj\\",
+    "projectPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\Tim Corey\\ProductManager\\Inlämning4\\Inlämning4.csproj",
+    "outputPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\Tim Corey\\ProductManager\\Inlämning4\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Microsoft\\Xamarin\\NuGet"

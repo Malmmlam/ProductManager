@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\ITHS\\Inlämning4\\Inlämning4\\Inlämning4.csproj",
+      "projectUniqueName": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\Tim Corey\\ProductManager\\Inlämning4\\Inlämning4.csproj",
       "projectName": "Inlämning4",
-      "projectPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\ITHS\\Inlämning4\\Inlämning4\\Inlämning4.csproj",
+      "projectPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\Tim Corey\\ProductManager\\Inlämning4\\Inlämning4.csproj",
       "packagesPath": "C:\\Users\\jfran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\ITHS\\Inlämning4\\Inlämning4\\obj\\",
+      "outputPath": "C:\\Users\\jfran\\OneDrive\\Programming\\Tutorials\\Tim Corey\\ProductManager\\Inlämning4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet"

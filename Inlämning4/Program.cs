@@ -13,7 +13,6 @@ namespace Inlämning4
     {
         private static void ProgramStart()
         {
-            Console.WriteLine("Test Change");
             if (!Directory.Exists(Json.programPath))
             {
                 Directory.CreateDirectory(Json.programPath);
