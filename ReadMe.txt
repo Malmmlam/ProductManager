@@ -1,1 +1,1 @@
-//Please copy the ProductManager foler to C:\Users\<USERNAME>\
+//Please copy the ProductManager folder to C:\Users\<USERNAME>\
